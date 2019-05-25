@@ -132,4 +132,4 @@ client.on("message", async message => {
   }
 });
 
-client.login('NTY2MzE5OTE5NzAxMTY0MDM0.XOjjfA.HfCPnJQ2mPQqiqZoIretKdjEJrw');
+login(process.env.NTY2MzE5OTE5NzAxMTY0MDM0.XOjjfA.HfCPnJQ2mPQqiqZoIretKdjEJrw);
